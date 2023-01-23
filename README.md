@@ -8,7 +8,7 @@ Fullstack Developer de Argentina
 
 ❓ Preguntame lo que quieras de React
 
-📲 Contactame adavidlopezmathez@gmail.com
+📲 Contactame facundoisoler@outlook.com
 
 
 My Skill Set
